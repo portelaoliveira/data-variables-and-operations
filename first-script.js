@@ -6,3 +6,7 @@ console.log(msg);
 msg = "Hello World mudou!";
 
 console.log(msg);
+
+const age = 26;
+
+console.log(`Minha idade é ${age}`);
